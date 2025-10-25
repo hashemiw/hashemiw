@@ -1,16 +1,30 @@
 # Hi there, I'm Alireza Hashemi! 👋
 
-**`iOS Developer`**
+**`iOS Developer `**
 
 I'm a passionate iOS developer with 3+ years of experience building scalable applications. Currently working with Swift, UIKit, SwiftUI, and modern architectures like MVVM and TCA. I have hands-on experience in real-time communication apps and specialize in push notification systems.
 
 ---
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-**Proficient:** Swift, UIKit, SwiftUI, MVVM, Core Data, Push Notifications (APNs), CallKit
-**Experienced:** Swift Concurrency, Combine, Dependency Injection, REST APIs, Git
-**Exploring:** The Composable Architecture (TCA), AI Integration, WebRTC
+**Languages:** 
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+**iOS Development:**
+UIKit | SwiftUI | Core Data | Push Notifications (APNs) | CallKit | Combine | Swift Concurrency
+
+**Tools & Services:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+**Architecture & Patterns:**
+MVVM | TCA | Clean Architecture | Dependency Injection | SOLID Principles
 
 ---
 
@@ -39,7 +53,8 @@ I'm a passionate iOS developer with 3+ years of experience building scalable app
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hashemiw&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashemiw&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashemiw&show_icons=true&theme=default)
 
 ---
 
