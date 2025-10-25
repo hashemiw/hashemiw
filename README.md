@@ -96,7 +96,7 @@ MVVM | TCA | Clean Architecture | Dependency Injection | SOLID Principles | MVC 
 
 *Note: Private repositories are not included in these stats*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashemiw&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashemiw&layout=compact&theme=default&cache_seconds=1800)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashemiw&show_icons=true&theme=default)
 
 ---
