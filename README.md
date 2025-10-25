@@ -1,6 +1,6 @@
-# Hi there, I'm Alireza Hashemi! 👋
+# Hi there, I'm Alireza! 🦸‍♂️
 
-**`iOS Developer `**
+**`Code Wizard - Turning ☕ into 💻 since 2022`**
 
 I'm a passionate iOS developer with 3+ years of experience building scalable applications. Currently working with Swift, UIKit, SwiftUI, and modern architectures like MVVM and TCA. I have hands-on experience in real-time communication apps and specialize in push notification systems.
 
