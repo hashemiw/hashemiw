@@ -37,6 +37,30 @@ MVVM | TCA | Clean Architecture | Dependency Injection | SOLID Principles
 
 ---
 
+### ⭐ Skills & Expertise
+
+**Core iOS Development:**
+- Swift, UIKit, SwiftUI, Objective-C
+- Core Data, UserDefaults, File Management
+- Push Notifications (APNs), Local Notifications
+
+**Architecture & Design:**
+- MVVM, MVC, VIPER, Clean Architecture
+- TCA (The Composable Architecture)
+- Dependency Injection, Protocol-Oriented Programming
+
+**Networking & Performance:**
+- REST APIs, URLSession, Alamofire
+- Concurrency (async/await), Operation Queues
+- Memory Management, Performance Optimization
+
+**Tools & Collaboration:**
+- Git, GitHub, GitFlow
+- Jira, Agile Methodology, CI/CD
+- Firebase, Realm, CocoaPods, Swift Package Manager
+
+---
+
 ### 🚀 Featured Projects
 
 #### Palphone
@@ -53,7 +77,9 @@ MVVM | TCA | Clean Architecture | Dependency Injection | SOLID Principles
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashemiw&layout=compact&theme=default)
+*Note: Private repositories are not included in these stats*
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashemiw&layout=compact&theme=default&exclude_repo=private-repo-1,private-repo-2)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashemiw&show_icons=true&theme=default)
 
 ---
